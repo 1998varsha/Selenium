@@ -1,5 +1,5 @@
 java is an  object oriented prograaming language
-java was developed by oracle
-java was acquired by sun microsystems
+java was developed by sun microsystems
+java was acquired by oracle
 there are 15 versions of java
 java is a robust language
